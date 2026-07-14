@@ -41,19 +41,6 @@ drwxr-xr-x  fhir-converter/       # Healthcare data interoperability pipeline
 
 ---
 
-### `$ ./run_stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shrey-Bhandari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrey-Bhandari&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Bhandari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="40%" />
-
-</div>
-
----
-
 ### `$ cat tech_stack.json`
 
 <div align="center">
@@ -88,8 +75,8 @@ drwxr-xr-x  fhir-converter/       # Healthcare data interoperability pipeline
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-Shrey--Bhandari-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Shrey-Bhandari)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/shrey-bhandari-136627292/)
+[![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:shreybhandari440@gmail.com)
 
 </div>
 
